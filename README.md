@@ -14,8 +14,7 @@ Quick and eager to learn and adopt emerging technologies, and continually lookin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhaisam350&layout=compact)](https://github.com/mhaisam350/github-readme-stats)
 
-**- Currently working on a portfolio site**
-
 **- Steadily growing into TDD**
 
 <a href="https://www.linkedin.com/in/mohammad-haisam"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://www.mhaisam.com"><img src="https://img.shields.io/badge/-mhaisam.com-orange" alt="Website"></a>
